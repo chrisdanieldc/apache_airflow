@@ -872,7 +872,5 @@ apache_airflow/
 ├── notebooks/
 │   └── airflow_connections_explained.py
 │
-├── README.md                       # This file
-├── QUICK_START.md                  # Quick start guide
-└── SETUP_AIRFLOW_CLICKHOUSE.md    # Airflow/ClickHouse setup guide
+└── README.md                       # This file
 ```
